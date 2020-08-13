@@ -9,7 +9,7 @@
 
 → In the learning process, with a vision for the desktop games and applications market.
 
-→ Feel free to contact to me, here's <p>emanuelllevi7770@gmail.com alt="My Gmail"</p>
+→ Feel free to contact to me, here's 
 
 <h4 align= "center" >Specifications</h4>
 
