@@ -1,6 +1,6 @@
 <h1 align="center">Hi :)</h1>
 
-<h3 align="center">•I'm an 17 y/o begginer GameDev addicted to code•</h3>
+<h3 align="center">• I'm an 17 y/o begginer GameDev addicted to code •</h3>
 
 
 → Learning C# and GDScript to working on Unity and Godot Engine.
