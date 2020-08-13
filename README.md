@@ -23,5 +23,5 @@
 
 <p align="center">
 <a href="https://steamcommunity.com/id/operaho/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="Steam" width="22" height="22"/></a>
-<a href="https://open.spotify.com/user/akv9ck5milvydoomndra25dvc" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F08%2FSpotify-Logo.png&f=1&nofb=1" alt="Spotify" width="28" height="21"/></a>
+<a href="https://open.spotify.com/user/akv9ck5milvydoomndra25dvc" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.soft32.com%2Fblog%2Fwp-content%2Fuploads%2F2016%2F08%2Fspotify_logo.png&f=1&nofb=1" alt="Spotify" width="28" height="21"/></a>
 </p>
