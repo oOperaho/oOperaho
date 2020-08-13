@@ -9,7 +9,7 @@
 
 → In the learning process, with a vision for the desktop games and applications market.
 
-→ Feel free to contact to me, here's [my gmail.](emanuelllevi7770@gmail.com) My Discord is open too: **Oрегано#6265** :)
+→ Feel free to contact to me, here's [my gmail.](emanuelllevi7770@gmail.com) My Discord is open too: **Oрегано#6265** 
 
 <h4 align= "center" >Specifications</h4>
 
