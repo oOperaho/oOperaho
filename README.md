@@ -9,7 +9,7 @@
 
 → In the learning process, with a vision for the desktop games and applications market.
 
-→ Feel free to contact to me, here's [my gmail.](emanuelllevi7770@gmail.com) My Discord is open too: **Oрегано#6265**. 
+→ Feel free to contact to me, here's [my gmail.](https://emanuelllevi7770@gmail.com) My Discord is open too: **Oрегано#6265**. 
 
 → _I can accept any job, help and project to work for now, to increase my experience: [My LinkedIn.](https://www.linkedin.com/in/emanuel-levi-934a861a8/)_
 
