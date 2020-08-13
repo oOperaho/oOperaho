@@ -1,6 +1,6 @@
 <h1 align="center">Hi :)</h1>
 
-<h3 align="center">I'm an begginer GameDev addicted to code</h3>
+<h3 align="center">I'm an 17 y/o begginer GameDev addicted to code</h3>
 
 
 → Learning C# and GDScript to working on Unity and Godot Engine.
@@ -11,7 +11,7 @@
 
 → Feel free to contact to me, here's [my gmail.](emanuelllevi7770@gmail.com) My Discord is open too: **Oрегано#6265**. 
 
-→ __I can accept any job, help and project to work for now, to increase my experience.__
+→ _I can accept any job, help and project to work for now, to increase my experience: [My LinkedIn](https://www.linkedin.com/in/emanuel-levi-934a861a8/)_
 
 <h4 align= "center" >Specifications</h4>
 
