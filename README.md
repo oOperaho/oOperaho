@@ -22,6 +22,6 @@
 <h4 align="center"> • Others Social Networks • </h4>
 
 <p align="center">
-<a href="https://steamcommunity.com/id/operaho/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="Steam" width="20" height="20"/></a>
+<a href="https://steamcommunity.com/id/operaho/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="Steam" width="24" height="24"/></a>
 <a href="https://open.spotify.com/user/akv9ck5milvydoomndra25dvc" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F08%2FSpotify-Logo.png&f=1&nofb=1" alt="Spotify" width="28" height="20"/></a>
 </p>
