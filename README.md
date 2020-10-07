@@ -26,4 +26,4 @@
 <a href="https://open.spotify.com/user/akv9ck5milvydoomndra25dvc" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.soft32.com%2Fblog%2Fwp-content%2Fuploads%2F2016%2F08%2Fspotify_logo.png&f=1&nofb=1" alt="Spotify" width="22" height="22"/></a>
 </p>
 
-<p align="center"> ![Operaho's github stats](https://github-readme-stats.vercel.app/api?username=oOperaho) </p>
+![Operaho's github stats](https://github-readme-stats.vercel.app/api?username=oOperaho)
