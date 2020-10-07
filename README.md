@@ -2,10 +2,6 @@
 
 <h3 align="center">• I'm an 17 y/o beginner GameDev addicted to code •</h3>
 
-
-![Operaho's github stats](https://github-readme-stats.vercel.app/api?username=oOperaho) 
-
-
 → Learning C# and GDScript to working on Unity and Godot Engine.
 
 → Currently working on a single project of a game on Godot with C#.
