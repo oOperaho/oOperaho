@@ -10,7 +10,7 @@
 
 → Feel free to contact with me, here's my Discord: __**Oрегано#6265**__. 
 
-→ _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](https://www.linkedin.com/in/emanuel-levi-934a861a8/)_
+→ _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](www.linkedin.com/in/operaho/)_
 
 <h3 align= "center" >• Specifications •</h3>
 
