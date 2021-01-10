@@ -10,7 +10,7 @@
 
 → _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](www.linkedin.com/in/operaho/)_
 
-→ Feel free to contact with me.
+→ Feel free to contact me.
 
 <h3 align= "center" >• Specifications •</h3>
 
