@@ -8,7 +8,7 @@
 
 → In the learning process, with a vision for the desktop games and applications market.
 
-→ Feel free to contact with me, here's my Discord: __**Oрегано#6265**__. 
+→ Feel free to contact with me, all my accounts are linked below.
 
 → _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](www.linkedin.com/in/operaho/)_
 
