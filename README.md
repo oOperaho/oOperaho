@@ -8,7 +8,7 @@
 
 → In the learning process, with a vision for the desktop games and applications market.
 
-→ _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](www.linkedin.com/in/operaho/)_
+→ _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](https://www.linkedin.com/in/operaho/)_
 
 → Feel free to contact me.
 
