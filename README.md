@@ -6,6 +6,8 @@
 
 → In the learning process, with a vision for the desktop games and applications market.
 
+→ I've been creating many games and stories that i intend to share and expand.
+
 → Studying Python and GDScript.
 
 → _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](https://www.linkedin.com/in/operaho/)_
