@@ -4,7 +4,7 @@
 
 → I can explore and create situations easily, using a unique mind method.
 
-→ Studying C#, Python and GDScript.
+→ Studying Python and GDScript.
 
 → In the learning process, with a vision for the desktop games and applications market.
 
