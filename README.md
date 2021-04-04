@@ -4,9 +4,9 @@
 
 → I can explore and create situations easily, using a unique mind method.
 
-→ Studying Python and GDScript.
-
 → In the learning process, with a vision for the desktop games and applications market.
+
+→ Studying Python and GDScript.
 
 → _I can accept any job, help or project to work for now, to increase my experience: [My LinkedIn.](https://www.linkedin.com/in/operaho/)_
 
