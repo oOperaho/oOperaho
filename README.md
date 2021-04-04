@@ -1,10 +1,10 @@
 <h1 align="center">Hi :)</h1>
 
-<h3 align="center">• I'm an 17 y/o beginner GameDev addicted to code •</h3>
+<h3 align="center">• I'm an 17 y/o beginner GameDev •</h3>
 
-→ Learning C# and GDScript to work on Unity and Godot Engine.
+→ I can explore and create situations easily, using a unique mind method.
 
-→ Currently working in a single project on Godot with C#.
+→ Studying C#, Python and GDScript.
 
 → In the learning process, with a vision for the desktop games and applications market.
 
