@@ -1,6 +1,6 @@
 <h1 align="center">Hi :)</h1>
 
-<h3 align="center">• I'm an 17 y/o beginner GameDev •</h3>
+<h3 align="center">• I'm an 18 y/o beginner GameDev •</h3>
 
 → I can explore and create situations easily, using a unique mind method.
 
