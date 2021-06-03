@@ -21,7 +21,7 @@
 
 <p align="center"><img src= "https://media3.giphy.com/media/kBkHx84PIWb1fFO5xU/giphy.gif" alt="Gif Script"/></p>
 
-<h3 align="center"> • Social Media • </h3>
+<h3 align="center"> • Media • </h3>
 
 <p align="center">
 <a href="https://steamcommunity.com/id/operaho/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="Steam" width="22" height="22"/></a>
