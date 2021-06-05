@@ -2,11 +2,11 @@
 
 <h3 align="center">• I'm an 18 y/o beginner Developer •</h3>
 
-→ I can explore and create situations easily, using a unique mind method.
+→ I can analyse and create situations easily, exploring many mind methods.
 
-→ I've been creating many games and stories that i aim to share and expand.
+→ I've been creating many games/rpgs and stories that i aim to share and expand.
 
-→ In the learning process, with a vision for the desktop games and applications market.
+→ Trying to enter the market of applications and desktop games.
 
 → Studying Python and GDScript.
 
