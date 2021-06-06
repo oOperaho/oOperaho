@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi :)</h1>
 
 <h3 align="center">• I'm an 18 y/o beginner Developer •</h3>
