@@ -1,4 +1,4 @@
-![c#](https://user-images.githubusercontent.com/61850743/120909613-15798900-c64d-11eb-84b2-97ba166acf49.png)
+
 <h1 align="center">Hi :)</h1>
 
 <h3 align="center">• I'm an 18 y/o beginner Developer •</h3>
