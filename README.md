@@ -8,7 +8,7 @@
 
 → Trying to enter the market of applications and desktop games.
 
-→ Studying Python and GDScript.
+→ Studying Django and PyQT.
 
 → Feel free to contact me.
 
