@@ -6,7 +6,7 @@
 
 → I've been creating many games/rpgs and stories that i want to share and expand.
 
-→ Trying to enter the market of applications and desktop games.
+→ Trying to enter the market of desktop applications and backend development.
 
 → Studying Django and PyQT.
 
