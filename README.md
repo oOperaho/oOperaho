@@ -8,7 +8,7 @@
 
 → Trying to enter the market of desktop applications and backend development.
 
-→ Studying Django and PyQT.
+→ Studying Rust.
 
 → Feel free to contact me.
 
