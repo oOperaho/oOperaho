@@ -1,6 +1,6 @@
 <h1 align="center">Hi :)</h1>
 
-<h3 align="center">• I'm an 18 y/o beginner Developer •</h3>
+<h3 align="center">• I'm an 19 y/o beginner Developer •</h3>
 
 → I can analyse and create situations easily, exploring many mind methods.
 
