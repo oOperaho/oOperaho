@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://steamcommunity.com/id/operaho/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="Steam" width="22" height="22"/></a>
-<a href= "https://discordapp.com/users/543468415503826965" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwheretoinvest.money%2Fwp-content%2Fuploads%2F2017%2F12%2Fdiscord-logo-1024x1024.png&f=1&nofb=1" alt="Discord" width="22" height="22"/></a>
+<a href= "https://discordapp.com/users/543468415503826965" target="blank"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" width="22" height="22"/></a>
 <a href="https://open.spotify.com/user/akv9ck5milvydoomndra25dvc" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.soft32.com%2Fblog%2Fwp-content%2Fuploads%2F2016%2F08%2Fspotify_logo.png&f=1&nofb=1" alt="Spotify" width="22" height="22"/></a>
  <a href="https://medium.com/@Operaho" target="blank"><img src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" alt="Medium" width="22" height="22"/></a>
 </p>
