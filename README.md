@@ -4,7 +4,7 @@
 
 → I can analyse and create situations easily, exploring many mind methods.
 
-→ I've been creating many games/rpgs and stories that i want to share and expand.
+→ I've been creating many stories and have a lot of good ideas that i want to share and expand.
 
 → Trying to enter the market of desktop applications and backend development.
 
