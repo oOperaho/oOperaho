@@ -10,8 +10,6 @@
 
 → Studying Rust.
 
-→ Feel free to contact me.
-
 <h3 align= "center" >• Specifications •</h3>
 
 <p align= "center"><img src= "https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="Rust" width="32" height="32"/> <img src= "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" alt="Python" width="30" height="30"/> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" alt="PyQt5" width="30" height="30"/>
