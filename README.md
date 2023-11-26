@@ -16,8 +16,6 @@
 <img src= "https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime" width="30" height="30"/>
 <img src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fatom-4-logo-png-transparent.png&f=1&nofb=1" alt="Atom" width="30" height="30"/> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2407%2FPNG%2F512%2Fdocker_icon_146192.png&f=1&nofb=1" alt="Docker" width="30" height="30"/> <img src= "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffabric8.io%2Fpresentations%2Fdevnation-2014-intro%2Fimages%2Flogo-git.png&f=1&nofb=1" alt="Git" width = "35" height "35"/> <img src= "https://imagepng.org/pinguim-linux-tux-linux/pinguim-linux-tux/" alt="Linux" width="32" height="32"/> 
 
-<p align="center"><img src= "https://media3.giphy.com/media/kBkHx84PIWb1fFO5xU/giphy.gif" alt="Gif Script" width="450" height="280"/></p>
-
 <h3 align="center"> • Media • </h3>
 
 <p align="center">
