@@ -2,8 +2,6 @@
 
 <h3 align="center">• I'm an 21 y/o Developer •</h3>
 
-→ I can analyse and create situations easily, exploring many mind methods.
-
 → I've been creating many stories and have a lot of good ideas that i want to share and expand.
 
 → Trying to enter the market of desktop applications and backend development.
